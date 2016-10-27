@@ -1,0 +1,20 @@
+{
+    "name": "setra/clientsys",
+    "description": "CRUD para aprendizado",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jhonatan",
+            "email": "jhonatan@setrasolucoes.com.br"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.19",
+        "phpmailer/phpmailer": "^5.2"
+    },
+    "autoload" : {
+	"psr-4" : {
+           "Setra\\" : "src"  
+	}
+    }
+}
