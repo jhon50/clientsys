@@ -14,8 +14,10 @@ class Client
     private $birthday;
     private $active;
     private $phones = [];
+    private $mainPhone;
 
     const TABLE = "clients";
+    const TABLE_PHONES = "phones";
 
     public function __construct($id = null)
     {
@@ -62,9 +64,22 @@ class Client
         return $this->active ? true : false;
     }
 
-    public function getPhones()
+    public function findPhones($id)
     {
+        $table_phones = self::TABLE_PHONES;
+        $sql = "SELECT * FROM {$table_phones} WHERE client_id = {$id}";
+        $query = self::$conn->prepare($sql);
+        $query->execute();
+        return $query->fetchAll(PDO::FETCH_ASSOC);
+    }
+
+    public function getPhones(){
         return $this->phones;
+    }
+
+    public function getMainPhone()
+    {
+        return $this->mainPhone;
     }
 
     //SET
@@ -97,6 +112,19 @@ class Client
     {
         $this->phones = $phones;
     }
+
+    public function setMainPhone($phone)
+    {
+        $this->mainPhone = $phone;
+    }
+
+    //public function setMainPhone(){
+    //    $table = self::TABLE;
+    //    $sql = "SELECT * FROM {$table} WHERE active != 0";
+//
+    //    $query = self::$conn->prepare($sql);
+    //    $query->execute();
+    //}
 
     //DB METHODS
     public function findAll()
@@ -134,9 +162,11 @@ class Client
 
     public function save()
     {
+        $table = self::TABLE;
+        $table_phones = self::TABLE_PHONES;
+
         if ($this->id) {
             // gera um update
-            $table = self::TABLE;
             $sql = "UPDATE {$table} SET first_name = :first_name, last_name = :last_name, birthday = :birthday WHERE id = :id";
             $query = self::$conn->prepare($sql);
             $query->bindParam(':first_name', $this->firstName, PDO::PARAM_STR);
@@ -146,22 +176,38 @@ class Client
 
             $query->execute();
 
+            $sql = null;
+            
+            $sql = "UPDATE phones SET main = 0 WHERE client_id = {$this->id};
+                    UPDATE phones SET main = 1 WHERE client_id = {$this->id} AND number = {$this->getMainPhone()};";
+
+
         } else {
             // gera um insert
-            $table = self::TABLE;
-            $sql = "INSERT INTO {$table} VALUES ('','{$this->getFirstName()}','{$this->getLastName()}','{$this->getBirthday()}','1')";
-
+            $sql = "INSERT INTO {$table} VALUES ('',:first_name,:last_name,:birthday,1)";
             $query = self::$conn->prepare($sql);
+            $query->bindParam(':first_name', $this->firstName, PDO::PARAM_STR);
+            $query->bindParam(':last_name', $this->lastName, PDO::PARAM_STR);
+            $query->bindParam(':birthday', $this->birthday, PDO::PARAM_STR);
             $query->execute();
-
-            $tmp_id = self::$conn->lastInsertId();
-
+            $client_id = self::$conn->lastInsertId();
             $sql = null;
             
             foreach($this->phones as $phone){
-                $sql = $sql."INSERT INTO phones VALUES (null, {$phone}, {$tmp_id},'1');";
+                $number;
+                if(isset($phone['number'])){
+                    $number = $phone['number'];
+                }else{
+                    break;
+                }
+                $main = $phone['main'];
+                $sql = "INSERT INTO {$table_phones} (number, client_id, main) VALUES (:phone, :client_id, :main);";
+                $query = self::$conn->prepare($sql);
+                $query->bindParam(':client_id', $client_id, PDO::PARAM_INT);
+                $query->bindParam(':phone', $number, PDO::PARAM_STR);
+                $query->bindParam(':main', $main, PDO::PARAM_INT);
+                $query->execute();
             }
-
 
             
         }

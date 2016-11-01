@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d30e43b2-971f-4c14-9768-afafea675b33" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/private/config.properties" afterPath="$PROJECT_DIR$/nbproject/private/config.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Models/.Client.php.swp" afterPath="$PROJECT_DIR$/src/Models/.Client.php.swp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/images/phpmailer.png" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/images/phpmailer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/images/phpmailer_mini.png" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/images/phpmailer_mini.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/wrapping.png" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/wrapping.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/assets/css/bootstrap-theme.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/assets/css/bootstrap-theme.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/assets/css/bootstrap.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/bootstrap.js" afterPath="$PROJECT_DIR$/assets/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/npm.js" afterPath="$PROJECT_DIR$/assets/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/db.ini" afterPath="$PROJECT_DIR$/config/db.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/delete.php" afterPath="$PROJECT_DIR$/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manage.php" afterPath="$PROJECT_DIR$/manage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/private/private.properties" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/private/private.xml" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/project.properties" afterPath="$PROJECT_DIR$/nbproject/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/project.xml" afterPath="$PROJECT_DIR$/nbproject/project.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Controllers/dbcontroller.php" afterPath="$PROJECT_DIR$/src/Controllers/dbcontroller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Helpers/Date.php" afterPath="$PROJECT_DIR$/src/Helpers/Date.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Models/Client.php" afterPath="$PROJECT_DIR$/src/Models/Client.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Models/ConnectionManager.php" afterPath="$PROJECT_DIR$/src/Models/ConnectionManager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Models/Email.php" afterPath="$PROJECT_DIR$/src/Models/Email.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Models/Phone.php" afterPath="$PROJECT_DIR$/src/Models/Phone.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/autoload.php" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/LICENSE.md" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/LICENSE.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/NOTICE.md" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/NOTICE.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/composer.json" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Acm/AcmClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Acm/AcmClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Acm/Exception/AcmException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Acm/Exception/AcmException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/AbstractModel.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/AbstractModel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/ApiProvider.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/ApiProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/DateTimeResult.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/DateTimeResult.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/DocModel.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/DocModel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/ErrorParser/JsonParserTrait.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/ErrorParser/JsonParserTrait.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/ErrorParser/JsonRpcErrorParser.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/ErrorParser/JsonRpcErrorParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/ErrorParser/RestJsonErrorParser.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/ErrorParser/RestJsonErrorParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/ErrorParser/XmlErrorParser.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/ErrorParser/XmlErrorParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/ListShape.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/ListShape.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/MapShape.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/MapShape.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Operation.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Operation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/AbstractParser.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/AbstractParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/AbstractRestParser.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/AbstractRestParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/Crc32ValidatingParser.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/Crc32ValidatingParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/Exception/ParserException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/Exception/ParserException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/JsonParser.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/JsonParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/JsonRpcParser.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/JsonRpcParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/PayloadParserTrait.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/PayloadParserTrait.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/QueryParser.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/QueryParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/RestJsonParser.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/RestJsonParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/RestXmlParser.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/RestXmlParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/XmlParser.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Parser/XmlParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Serializer/Ec2ParamBuilder.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Serializer/Ec2ParamBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Serializer/JsonBody.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Serializer/JsonBody.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Serializer/JsonRpcSerializer.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Serializer/JsonRpcSerializer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Serializer/QueryParamBuilder.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Serializer/QueryParamBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Serializer/QuerySerializer.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Serializer/QuerySerializer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Serializer/RestJsonSerializer.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Serializer/RestJsonSerializer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Serializer/RestSerializer.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Serializer/RestSerializer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Serializer/RestXmlSerializer.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Serializer/RestXmlSerializer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Serializer/XmlBody.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Serializer/XmlBody.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Service.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Service.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Shape.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Shape.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/ShapeMap.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/ShapeMap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/StructureShape.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/StructureShape.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/TimestampShape.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/TimestampShape.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Validator.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Api/Validator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ApiGateway/ApiGatewayClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ApiGateway/ApiGatewayClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ApiGateway/Exception/ApiGatewayException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ApiGateway/Exception/ApiGatewayException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ApplicationAutoScaling/ApplicationAutoScalingClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ApplicationAutoScaling/ApplicationAutoScalingClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ApplicationAutoScaling/Exception/ApplicationAutoScalingException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ApplicationAutoScaling/Exception/ApplicationAutoScalingException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ApplicationDiscoveryService/ApplicationDiscoveryServiceClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ApplicationDiscoveryService/ApplicationDiscoveryServiceClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ApplicationDiscoveryService/Exception/ApplicationDiscoveryServiceException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ApplicationDiscoveryService/Exception/ApplicationDiscoveryServiceException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/AutoScaling/AutoScalingClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/AutoScaling/AutoScalingClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/AutoScaling/Exception/AutoScalingException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/AutoScaling/Exception/AutoScalingException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/AwsClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/AwsClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/AwsClientInterface.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/AwsClientInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/AwsClientTrait.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/AwsClientTrait.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Budgets/BudgetsClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Budgets/BudgetsClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Budgets/Exception/BudgetsException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Budgets/Exception/BudgetsException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CacheInterface.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CacheInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ClientResolver.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ClientResolver.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudFormation/CloudFormationClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudFormation/CloudFormationClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudFormation/Exception/CloudFormationException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudFormation/Exception/CloudFormationException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudFront/CloudFrontClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudFront/CloudFrontClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudFront/CookieSigner.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudFront/CookieSigner.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudFront/Exception/CloudFrontException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudFront/Exception/CloudFrontException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudFront/Signer.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudFront/Signer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudFront/UrlSigner.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudFront/UrlSigner.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudHsm/CloudHsmClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudHsm/CloudHsmClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudHsm/Exception/CloudHsmException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudHsm/Exception/CloudHsmException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudSearch/CloudSearchClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudSearch/CloudSearchClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudSearch/Exception/CloudSearchException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudSearch/Exception/CloudSearchException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudSearchDomain/CloudSearchDomainClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudSearchDomain/CloudSearchDomainClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudSearchDomain/Exception/CloudSearchDomainException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudSearchDomain/Exception/CloudSearchDomainException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudTrail/CloudTrailClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudTrail/CloudTrailClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudTrail/Exception/CloudTrailException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudTrail/Exception/CloudTrailException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudTrail/LogFileIterator.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudTrail/LogFileIterator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudTrail/LogFileReader.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudTrail/LogFileReader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudTrail/LogRecordIterator.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudTrail/LogRecordIterator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudWatch/CloudWatchClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudWatch/CloudWatchClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudWatch/Exception/CloudWatchException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudWatch/Exception/CloudWatchException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudWatchEvents/CloudWatchEventsClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudWatchEvents/CloudWatchEventsClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudWatchEvents/Exception/CloudWatchEventsException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudWatchEvents/Exception/CloudWatchEventsException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudWatchLogs/CloudWatchLogsClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudWatchLogs/CloudWatchLogsClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudWatchLogs/Exception/CloudWatchLogsException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CloudWatchLogs/Exception/CloudWatchLogsException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CodeCommit/CodeCommitClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CodeCommit/CodeCommitClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CodeCommit/Exception/CodeCommitException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CodeCommit/Exception/CodeCommitException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CodeDeploy/CodeDeployClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CodeDeploy/CodeDeployClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CodeDeploy/Exception/CodeDeployException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CodeDeploy/Exception/CodeDeployException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CodePipeline/CodePipelineClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CodePipeline/CodePipelineClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CodePipeline/Exception/CodePipelineException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CodePipeline/Exception/CodePipelineException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CognitoIdentity/CognitoIdentityClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CognitoIdentity/CognitoIdentityClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CognitoIdentity/CognitoIdentityProvider.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CognitoIdentity/CognitoIdentityProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CognitoIdentity/Exception/CognitoIdentityException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CognitoIdentity/Exception/CognitoIdentityException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CognitoIdentityProvider/CognitoIdentityProviderClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CognitoIdentityProvider/CognitoIdentityProviderClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CognitoIdentityProvider/Exception/CognitoIdentityProviderException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CognitoIdentityProvider/Exception/CognitoIdentityProviderException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CognitoSync/CognitoSyncClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CognitoSync/CognitoSyncClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CognitoSync/Exception/CognitoSyncException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CognitoSync/Exception/CognitoSyncException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Command.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Command.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CommandInterface.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CommandInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CommandPool.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/CommandPool.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ConfigService/ConfigServiceClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ConfigService/ConfigServiceClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ConfigService/Exception/ConfigServiceException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ConfigService/Exception/ConfigServiceException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Credentials/CredentialProvider.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Credentials/CredentialProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Credentials/Credentials.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Credentials/Credentials.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Credentials/CredentialsInterface.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Credentials/CredentialsInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Credentials/EcsCredentialProvider.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Credentials/EcsCredentialProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Credentials/InstanceProfileProvider.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Credentials/InstanceProfileProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DataPipeline/DataPipelineClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DataPipeline/DataPipelineClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DataPipeline/Exception/DataPipelineException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DataPipeline/Exception/DataPipelineException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DatabaseMigrationService/DatabaseMigrationServiceClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DatabaseMigrationService/DatabaseMigrationServiceClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DatabaseMigrationService/Exception/DatabaseMigrationServiceException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DatabaseMigrationService/Exception/DatabaseMigrationServiceException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DeviceFarm/DeviceFarmClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DeviceFarm/DeviceFarmClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DeviceFarm/Exception/DeviceFarmException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DeviceFarm/Exception/DeviceFarmException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DirectConnect/DirectConnectClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DirectConnect/DirectConnectClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DirectConnect/Exception/DirectConnectException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DirectConnect/Exception/DirectConnectException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DirectoryService/DirectoryServiceClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DirectoryService/DirectoryServiceClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DirectoryService/Exception/DirectoryServiceException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DirectoryService/Exception/DirectoryServiceException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DoctrineCacheAdapter.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DoctrineCacheAdapter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/BinaryValue.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/BinaryValue.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/DynamoDbClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/DynamoDbClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/Exception/DynamoDbException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/Exception/DynamoDbException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/LockingSessionConnection.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/LockingSessionConnection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/Marshaler.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/Marshaler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/NumberValue.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/NumberValue.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/SessionConnectionInterface.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/SessionConnectionInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/SessionHandler.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/SessionHandler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/SetValue.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/SetValue.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/StandardSessionConnection.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/StandardSessionConnection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/WriteRequestBatch.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDb/WriteRequestBatch.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDbStreams/DynamoDbStreamsClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDbStreams/DynamoDbStreamsClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDbStreams/Exception/DynamoDbStreamsException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/DynamoDbStreams/Exception/DynamoDbStreamsException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ec2/CopySnapshotMiddleware.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ec2/CopySnapshotMiddleware.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ec2/Ec2Client.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ec2/Ec2Client.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ec2/Exception/Ec2Exception.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ec2/Exception/Ec2Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ecr/EcrClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ecr/EcrClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ecr/Exception/EcrException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ecr/Exception/EcrException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ecs/EcsClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ecs/EcsClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ecs/Exception/EcsException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ecs/Exception/EcsException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Efs/EfsClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Efs/EfsClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Efs/Exception/EfsException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Efs/Exception/EfsException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElastiCache/ElastiCacheClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElastiCache/ElastiCacheClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElastiCache/Exception/ElastiCacheException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElastiCache/Exception/ElastiCacheException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticBeanstalk/ElasticBeanstalkClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticBeanstalk/ElasticBeanstalkClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticBeanstalk/Exception/ElasticBeanstalkException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticBeanstalk/Exception/ElasticBeanstalkException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticLoadBalancing/ElasticLoadBalancingClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticLoadBalancing/ElasticLoadBalancingClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticLoadBalancing/Exception/ElasticLoadBalancingException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticLoadBalancing/Exception/ElasticLoadBalancingException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticLoadBalancingV2/ElasticLoadBalancingV2Client.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticLoadBalancingV2/ElasticLoadBalancingV2Client.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticLoadBalancingV2/Exception/ElasticLoadBalancingV2Exception.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticLoadBalancingV2/Exception/ElasticLoadBalancingV2Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticTranscoder/ElasticTranscoderClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticTranscoder/ElasticTranscoderClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticTranscoder/Exception/ElasticTranscoderException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticTranscoder/Exception/ElasticTranscoderException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticsearchService/ElasticsearchServiceClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticsearchService/ElasticsearchServiceClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticsearchService/Exception/ElasticsearchServiceException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ElasticsearchService/Exception/ElasticsearchServiceException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Emr/EmrClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Emr/EmrClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Emr/Exception/EmrException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Emr/Exception/EmrException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Endpoint/EndpointProvider.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Endpoint/EndpointProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Endpoint/Partition.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Endpoint/Partition.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Endpoint/PartitionEndpointProvider.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Endpoint/PartitionEndpointProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Endpoint/PartitionInterface.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Endpoint/PartitionInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Endpoint/PatternEndpointProvider.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Endpoint/PatternEndpointProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Exception/AwsException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Exception/AwsException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Exception/CouldNotCreateChecksumException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Exception/CouldNotCreateChecksumException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Exception/CredentialsException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Exception/CredentialsException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Exception/MultipartUploadException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Exception/MultipartUploadException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Exception/UnresolvedApiException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Exception/UnresolvedApiException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Exception/UnresolvedEndpointException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Exception/UnresolvedEndpointException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Exception/UnresolvedSignatureException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Exception/UnresolvedSignatureException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Firehose/Exception/FirehoseException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Firehose/Exception/FirehoseException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Firehose/FirehoseClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Firehose/FirehoseClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/GameLift/Exception/GameLiftException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/GameLift/Exception/GameLiftException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/GameLift/GameLiftClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/GameLift/GameLiftClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Glacier/Exception/GlacierException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Glacier/Exception/GlacierException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Glacier/GlacierClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Glacier/GlacierClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Glacier/MultipartUploader.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Glacier/MultipartUploader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Glacier/TreeHash.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Glacier/TreeHash.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Handler/GuzzleV5/GuzzleHandler.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Handler/GuzzleV5/GuzzleHandler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Handler/GuzzleV5/GuzzleStream.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Handler/GuzzleV5/GuzzleStream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Handler/GuzzleV5/PsrStream.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Handler/GuzzleV5/PsrStream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Handler/GuzzleV6/GuzzleHandler.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Handler/GuzzleV6/GuzzleHandler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/HandlerList.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/HandlerList.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/HasDataTrait.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/HasDataTrait.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/HashInterface.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/HashInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/HashingStream.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/HashingStream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/History.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/History.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Iam/Exception/IamException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Iam/Exception/IamException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Iam/IamClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Iam/IamClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ImportExport/Exception/ImportExportException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ImportExport/Exception/ImportExportException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ImportExport/ImportExportClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ImportExport/ImportExportClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Inspector/Exception/InspectorException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Inspector/Exception/InspectorException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Inspector/InspectorClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Inspector/InspectorClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Iot/Exception/IotException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Iot/Exception/IotException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Iot/IotClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Iot/IotClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/IotDataPlane/Exception/IotDataPlaneException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/IotDataPlane/Exception/IotDataPlaneException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/IotDataPlane/IotDataPlaneClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/IotDataPlane/IotDataPlaneClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/JsonCompiler.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/JsonCompiler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Kinesis/Exception/KinesisException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Kinesis/Exception/KinesisException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Kinesis/KinesisClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Kinesis/KinesisClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/KinesisAnalytics/Exception/KinesisAnalyticsException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/KinesisAnalytics/Exception/KinesisAnalyticsException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/KinesisAnalytics/KinesisAnalyticsClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/KinesisAnalytics/KinesisAnalyticsClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Kms/Exception/KmsException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Kms/Exception/KmsException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Kms/KmsClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Kms/KmsClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Lambda/Exception/LambdaException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Lambda/Exception/LambdaException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Lambda/LambdaClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Lambda/LambdaClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/LruArrayCache.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/LruArrayCache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/MachineLearning/Exception/MachineLearningException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/MachineLearning/Exception/MachineLearningException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/MachineLearning/MachineLearningClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/MachineLearning/MachineLearningClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/MarketplaceCommerceAnalytics/Exception/MarketplaceCommerceAnalyticsException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/MarketplaceCommerceAnalytics/Exception/MarketplaceCommerceAnalyticsException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/MarketplaceCommerceAnalytics/MarketplaceCommerceAnalyticsClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/MarketplaceCommerceAnalytics/MarketplaceCommerceAnalyticsClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/MarketplaceMetering/Exception/MarketplaceMeteringException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/MarketplaceMetering/Exception/MarketplaceMeteringException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/MarketplaceMetering/MarketplaceMeteringClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/MarketplaceMetering/MarketplaceMeteringClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Middleware.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Middleware.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/MockHandler.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/MockHandler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/MultiRegionClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/MultiRegionClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Multipart/AbstractUploadManager.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Multipart/AbstractUploadManager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Multipart/AbstractUploader.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Multipart/AbstractUploader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Multipart/UploadState.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Multipart/UploadState.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/OpsWorks/Exception/OpsWorksException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/OpsWorks/Exception/OpsWorksException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/OpsWorks/OpsWorksClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/OpsWorks/OpsWorksClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/PhpHash.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/PhpHash.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/PsrCacheAdapter.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/PsrCacheAdapter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Rds/Exception/RdsException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Rds/Exception/RdsException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Rds/RdsClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Rds/RdsClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Redshift/Exception/RedshiftException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Redshift/Exception/RedshiftException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Redshift/RedshiftClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Redshift/RedshiftClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Result.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Result.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ResultInterface.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ResultInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ResultPaginator.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ResultPaginator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/RetryMiddleware.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/RetryMiddleware.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Route53/Exception/Route53Exception.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Route53/Exception/Route53Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Route53/Route53Client.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Route53/Route53Client.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Route53Domains/Exception/Route53DomainsException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Route53Domains/Exception/Route53DomainsException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Route53Domains/Route53DomainsClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Route53Domains/Route53DomainsClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/AmbiguousSuccessParser.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/AmbiguousSuccessParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/ApplyChecksumMiddleware.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/ApplyChecksumMiddleware.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/BatchDelete.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/BatchDelete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/BucketEndpointMiddleware.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/BucketEndpointMiddleware.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/Exception/DeleteMultipleObjectsException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/Exception/DeleteMultipleObjectsException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/Exception/PermanentRedirectException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/Exception/PermanentRedirectException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/Exception/S3Exception.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/Exception/S3Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/GetBucketLocationParser.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/GetBucketLocationParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/MultipartCopy.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/MultipartCopy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/MultipartUploader.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/MultipartUploader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/MultipartUploadingTrait.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/MultipartUploadingTrait.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/ObjectCopier.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/ObjectCopier.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/ObjectUploader.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/ObjectUploader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/PermanentRedirectMiddleware.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/PermanentRedirectMiddleware.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/PostObject.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/PostObject.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/PostObjectV4.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/PostObjectV4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/PutObjectUrlMiddleware.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/PutObjectUrlMiddleware.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/RetryableMalformedResponseParser.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/RetryableMalformedResponseParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/S3Client.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/S3Client.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/S3ClientInterface.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/S3ClientInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/S3ClientTrait.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/S3ClientTrait.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/S3EndpointMiddleware.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/S3EndpointMiddleware.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/S3MultiRegionClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/S3MultiRegionClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/S3UriParser.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/S3UriParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/SSECMiddleware.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/SSECMiddleware.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/StreamWrapper.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/StreamWrapper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/Transfer.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/S3/Transfer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Sdk.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Sdk.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ServiceCatalog/Exception/ServiceCatalogException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ServiceCatalog/Exception/ServiceCatalogException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ServiceCatalog/ServiceCatalogClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/ServiceCatalog/ServiceCatalogClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ses/Exception/SesException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ses/Exception/SesException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ses/SesClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ses/SesClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Signature/AnonymousSignature.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Signature/AnonymousSignature.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Signature/S3SignatureV4.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Signature/S3SignatureV4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Signature/SignatureInterface.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Signature/SignatureInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Signature/SignatureProvider.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Signature/SignatureProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Signature/SignatureTrait.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Signature/SignatureTrait.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Signature/SignatureV4.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Signature/SignatureV4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Sms/Exception/SmsException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Sms/Exception/SmsException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Sms/SmsClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Sms/SmsClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/SnowBall/Exception/SnowBallException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/SnowBall/Exception/SnowBallException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/SnowBall/SnowBallClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/SnowBall/SnowBallClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Sns/Exception/SnsException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Sns/Exception/SnsException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Sns/SnsClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Sqs/Exception/SqsException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Sqs/Exception/SqsException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Sqs/SqsClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Sqs/SqsClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ssm/Exception/SsmException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ssm/Exception/SsmException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ssm/SsmClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Ssm/SsmClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/StorageGateway/Exception/StorageGatewayException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/StorageGateway/Exception/StorageGatewayException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/StorageGateway/StorageGatewayClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/StorageGateway/StorageGatewayClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Sts/Exception/StsException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Sts/Exception/StsException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Sts/StsClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Sts/StsClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Support/Exception/SupportException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Support/Exception/SupportException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Support/SupportClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Support/SupportClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Swf/Exception/SwfException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Swf/Exception/SwfException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Swf/SwfClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Swf/SwfClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/TraceMiddleware.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/TraceMiddleware.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Waf/Exception/WafException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Waf/Exception/WafException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Waf/WafClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Waf/WafClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Waiter.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/Waiter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/WorkSpaces/Exception/WorkSpacesException.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/WorkSpaces/Exception/WorkSpacesException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/WorkSpaces/WorkSpacesClient.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/WorkSpaces/WorkSpacesClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/WrappedHttpHandler.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/WrappedHttpHandler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/acm/2015-12-08/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/acm/2015-12-08/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/acm/2015-12-08/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/acm/2015-12-08/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/apigateway/2015-07-09/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/apigateway/2015-07-09/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/apigateway/2015-07-09/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/apigateway/2015-07-09/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/application-autoscaling/2016-02-06/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/application-autoscaling/2016-02-06/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/application-autoscaling/2016-02-06/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/application-autoscaling/2016-02-06/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/autoscaling/2011-01-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/autoscaling/2011-01-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/autoscaling/2011-01-01/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/autoscaling/2011-01-01/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/autoscaling/2011-01-01/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/autoscaling/2011-01-01/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/budgets/2016-10-20/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/budgets/2016-10-20/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudformation/2010-05-15/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudformation/2010-05-15/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudformation/2010-05-15/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudformation/2010-05-15/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudformation/2010-05-15/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudformation/2010-05-15/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2015-07-27/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2015-07-27/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2015-07-27/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2015-07-27/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2015-07-27/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2015-07-27/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-01-28/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-01-28/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-01-28/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-01-28/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-01-28/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-01-28/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-08-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-08-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-08-01/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-08-01/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-08-01/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-08-01/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-08-20/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-08-20/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-08-20/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-08-20/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-08-20/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-08-20/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-09-07/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-09-07/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-09-07/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-09-07/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-09-07/waiters-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-09-07/waiters-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-09-07/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-09-07/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-09-29/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-09-29/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-09-29/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-09-29/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-09-29/waiters-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-09-29/waiters-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-09-29/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudfront/2016-09-29/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudhsm/2014-05-30/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudhsm/2014-05-30/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudsearch/2013-01-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudsearch/2013-01-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudsearch/2013-01-01/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudsearch/2013-01-01/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudsearchdomain/2013-01-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudsearchdomain/2013-01-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudtrail/2013-11-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudtrail/2013-11-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudtrail/2013-11-01/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cloudtrail/2013-11-01/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/codecommit/2015-04-13/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/codecommit/2015-04-13/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/codecommit/2015-04-13/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/codecommit/2015-04-13/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/codedeploy/2014-10-06/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/codedeploy/2014-10-06/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/codedeploy/2014-10-06/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/codedeploy/2014-10-06/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/codedeploy/2014-10-06/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/codedeploy/2014-10-06/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/codepipeline/2015-07-09/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/codepipeline/2015-07-09/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cognito-identity/2014-06-30/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cognito-identity/2014-06-30/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cognito-idp/2016-04-18/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cognito-idp/2016-04-18/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cognito-sync/2014-06-30/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/cognito-sync/2014-06-30/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/config/2014-11-12/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/config/2014-11-12/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/config/2014-11-12/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/config/2014-11-12/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/data.iot/2015-05-28/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/data.iot/2015-05-28/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/datapipeline/2012-10-29/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/datapipeline/2012-10-29/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/datapipeline/2012-10-29/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/datapipeline/2012-10-29/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/devicefarm/2015-06-23/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/devicefarm/2015-06-23/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/devicefarm/2015-06-23/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/devicefarm/2015-06-23/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/directconnect/2012-10-25/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/directconnect/2012-10-25/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/directconnect/2012-10-25/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/directconnect/2012-10-25/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/discovery/2015-11-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/discovery/2015-11-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/dms/2016-01-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/dms/2016-01-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ds/2015-04-16/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ds/2015-04-16/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/dynamodb/2012-08-10/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/dynamodb/2012-08-10/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/dynamodb/2012-08-10/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/dynamodb/2012-08-10/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/dynamodb/2012-08-10/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/dynamodb/2012-08-10/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2015-10-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2015-10-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2015-10-01/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2015-10-01/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2015-10-01/waiters-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2015-10-01/waiters-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2015-10-01/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2015-10-01/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2016-04-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2016-04-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2016-04-01/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2016-04-01/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2016-04-01/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2016-04-01/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2016-09-15/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2016-09-15/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2016-09-15/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2016-09-15/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2016-09-15/waiters-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2016-09-15/waiters-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2016-09-15/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ec2/2016-09-15/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ecr/2015-09-21/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ecr/2015-09-21/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ecs/2014-11-13/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ecs/2014-11-13/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ecs/2014-11-13/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ecs/2014-11-13/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ecs/2014-11-13/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ecs/2014-11-13/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticache/2015-02-02/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticache/2015-02-02/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticache/2015-02-02/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticache/2015-02-02/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticache/2015-02-02/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticache/2015-02-02/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticbeanstalk/2010-12-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticbeanstalk/2010-12-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticbeanstalk/2010-12-01/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticbeanstalk/2010-12-01/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticfilesystem/2015-02-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticfilesystem/2015-02-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticloadbalancing/2012-06-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticloadbalancing/2012-06-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticloadbalancing/2012-06-01/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticloadbalancing/2012-06-01/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticloadbalancing/2012-06-01/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticloadbalancing/2012-06-01/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticloadbalancingv2/2015-12-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticloadbalancingv2/2015-12-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticloadbalancingv2/2015-12-01/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticloadbalancingv2/2015-12-01/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticmapreduce/2009-03-31/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticmapreduce/2009-03-31/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticmapreduce/2009-03-31/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticmapreduce/2009-03-31/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticmapreduce/2009-03-31/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elasticmapreduce/2009-03-31/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elastictranscoder/2012-09-25/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elastictranscoder/2012-09-25/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elastictranscoder/2012-09-25/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elastictranscoder/2012-09-25/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elastictranscoder/2012-09-25/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/elastictranscoder/2012-09-25/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/email/2010-12-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/email/2010-12-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/email/2010-12-01/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/email/2010-12-01/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/email/2010-12-01/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/email/2010-12-01/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/endpoints.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/endpoints.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/es/2015-01-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/es/2015-01-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/events/2015-10-07/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/events/2015-10-07/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/firehose/2015-08-04/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/firehose/2015-08-04/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/gamelift/2015-10-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/gamelift/2015-10-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/glacier/2012-06-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/glacier/2012-06-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/glacier/2012-06-01/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/glacier/2012-06-01/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/glacier/2012-06-01/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/glacier/2012-06-01/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/iam/2010-05-08/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/iam/2010-05-08/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/iam/2010-05-08/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/iam/2010-05-08/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/iam/2010-05-08/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/iam/2010-05-08/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/importexport/2010-06-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/importexport/2010-06-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/importexport/2010-06-01/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/importexport/2010-06-01/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/inspector/2016-02-16/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/inspector/2016-02-16/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/iot/2015-05-28/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/iot/2015-05-28/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/kinesis/2013-12-02/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/kinesis/2013-12-02/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/kinesis/2013-12-02/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/kinesis/2013-12-02/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/kinesis/2013-12-02/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/kinesis/2013-12-02/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/kinesisanalytics/2015-08-14/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/kinesisanalytics/2015-08-14/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/kms/2014-11-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/kms/2014-11-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/kms/2014-11-01/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/kms/2014-11-01/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/lambda/2015-03-31/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/lambda/2015-03-31/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/lambda/2015-03-31/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/lambda/2015-03-31/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/logs/2014-03-28/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/logs/2014-03-28/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/logs/2014-03-28/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/logs/2014-03-28/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/machinelearning/2014-12-12/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/machinelearning/2014-12-12/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/machinelearning/2014-12-12/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/machinelearning/2014-12-12/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/machinelearning/2014-12-12/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/machinelearning/2014-12-12/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/manifest.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/manifest.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/marketplacecommerceanalytics/2015-07-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/marketplacecommerceanalytics/2015-07-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/metering.marketplace/2016-01-14/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/metering.marketplace/2016-01-14/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/monitoring/2010-08-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/monitoring/2010-08-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/monitoring/2010-08-01/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/monitoring/2010-08-01/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/monitoring/2010-08-01/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/monitoring/2010-08-01/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/opsworks/2013-02-18/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/opsworks/2013-02-18/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/opsworks/2013-02-18/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/opsworks/2013-02-18/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/opsworks/2013-02-18/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/opsworks/2013-02-18/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/rds/2014-10-31/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/rds/2014-10-31/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/rds/2014-10-31/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/rds/2014-10-31/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/rds/2014-10-31/waiters-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/rds/2014-10-31/waiters-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/rds/2014-10-31/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/rds/2014-10-31/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/redshift/2012-12-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/redshift/2012-12-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/redshift/2012-12-01/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/redshift/2012-12-01/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/redshift/2012-12-01/waiters-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/redshift/2012-12-01/waiters-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/redshift/2012-12-01/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/redshift/2012-12-01/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/route53/2013-04-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/route53/2013-04-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/route53/2013-04-01/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/route53/2013-04-01/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/route53/2013-04-01/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/route53/2013-04-01/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/route53domains/2014-05-15/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/route53domains/2014-05-15/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/route53domains/2014-05-15/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/route53domains/2014-05-15/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/s3/2006-03-01/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/s3/2006-03-01/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/s3/2006-03-01/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/s3/2006-03-01/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/s3/2006-03-01/waiters-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/s3/2006-03-01/waiters-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/s3/2006-03-01/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/s3/2006-03-01/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/servicecatalog/2015-12-10/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/servicecatalog/2015-12-10/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/sms/2016-10-24/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/sms/2016-10-24/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/sms/2016-10-24/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/sms/2016-10-24/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/snowball/2016-06-30/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/snowball/2016-06-30/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/snowball/2016-06-30/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/snowball/2016-06-30/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/sns/2010-03-31/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/sns/2010-03-31/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/sns/2010-03-31/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/sns/2010-03-31/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/sqs/2012-11-05/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/sqs/2012-11-05/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/sqs/2012-11-05/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/sqs/2012-11-05/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/sqs/2012-11-05/waiters-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/sqs/2012-11-05/waiters-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ssm/2014-11-06/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ssm/2014-11-06/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ssm/2014-11-06/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/ssm/2014-11-06/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/storagegateway/2013-06-30/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/storagegateway/2013-06-30/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/storagegateway/2013-06-30/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/storagegateway/2013-06-30/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/streams.dynamodb/2012-08-10/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/streams.dynamodb/2012-08-10/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/sts/2011-06-15/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/sts/2011-06-15/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/support/2013-04-15/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/support/2013-04-15/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/support/2013-04-15/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/support/2013-04-15/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/swf/2012-01-25/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/swf/2012-01-25/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/swf/2012-01-25/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/swf/2012-01-25/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/waf/2015-08-24/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/waf/2015-08-24/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/workspaces/2015-04-08/api-2.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/workspaces/2015-04-08/api-2.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/workspaces/2015-04-08/paginators-1.json.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/data/workspaces/2015-04-08/paginators-1.json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/functions.php" afterPath="$PROJECT_DIR$/vendor/aws/aws-sdk-php/src/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/.travis.yml" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/LICENSE" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/README.md" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/UPGRADING.md" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/UPGRADING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/composer.json" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Client.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Client.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/ClientInterface.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/ClientInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/CookieJarInterface.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/CookieJarInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/SetCookie.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/SetCookie.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/BadResponseException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/BadResponseException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ClientException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ClientException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ConnectException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ConnectException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/GuzzleException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/GuzzleException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/SeekException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/SeekException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ServerException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ServerException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/TransferException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/TransferException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlFactoryInterface.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlFactoryInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlMultiHandler.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlMultiHandler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/EasyHandle.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/EasyHandle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/MockHandler.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/MockHandler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/HandlerStack.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/HandlerStack.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/MessageFormatter.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/MessageFormatter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Middleware.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Middleware.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Pool.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Pool.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RequestOptions.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RequestOptions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RetryMiddleware.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RetryMiddleware.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/TransferStats.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/TransferStats.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/UriTemplate.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/UriTemplate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/functions.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/functions_include.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/functions_include.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/.gitignore" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/.travis.yml" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/LICENSE" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/Makefile" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/README.md" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/composer.json" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/phpunit.xml.dist" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/phpunit.xml.dist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/AggregateException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/AggregateException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/CancellationException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/CancellationException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/EachPromise.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/EachPromise.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/FulfilledPromise.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/FulfilledPromise.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/Promise.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/Promise.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/PromiseInterface.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/PromiseInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/PromisorInterface.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/PromisorInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/RejectedPromise.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/RejectedPromise.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/RejectionException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/RejectionException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/TaskQueue.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/TaskQueue.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/functions.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/functions_include.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/functions_include.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/AggregateExceptionTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/AggregateExceptionTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/EachPromiseTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/EachPromiseTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/FulfilledPromiseTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/FulfilledPromiseTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/NotPromiseInstance.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/NotPromiseInstance.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/PromiseTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/PromiseTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/RejectedPromiseTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/RejectedPromiseTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/RejectionExceptionTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/RejectionExceptionTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/TaskQueueTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/TaskQueueTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/Thennable.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/Thennable.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/bootstrap.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/functionsTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/tests/functionsTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/.gitignore" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/.travis.yml" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/LICENSE" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/Makefile" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/README.md" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/composer.json" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/phpunit.xml.dist" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/phpunit.xml.dist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/AppendStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/AppendStream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/BufferStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/BufferStream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/CachingStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/CachingStream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/DroppingStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/DroppingStream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/FnStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/FnStream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/InflateStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/InflateStream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/LazyOpenStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/LazyOpenStream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/LimitStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/LimitStream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/MessageTrait.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/MessageTrait.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/MultipartStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/MultipartStream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/NoSeekStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/NoSeekStream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/PumpStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/PumpStream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Request.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Request.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Response.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Response.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/ServerRequest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/ServerRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Stream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Stream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/StreamDecoratorTrait.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/StreamDecoratorTrait.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/StreamWrapper.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/StreamWrapper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/UploadedFile.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/UploadedFile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Uri.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Uri.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/functions.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/functions_include.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/functions_include.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/AppendStreamTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/AppendStreamTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/BufferStreamTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/BufferStreamTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/CachingStreamTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/CachingStreamTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/DroppingStreamTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/DroppingStreamTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/FnStreamTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/FnStreamTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/FunctionsTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/FunctionsTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/InflateStreamTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/InflateStreamTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/LazyOpenStreamTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/LazyOpenStreamTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/LimitStreamTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/LimitStreamTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/MultipartStreamTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/MultipartStreamTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/NoSeekStreamTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/NoSeekStreamTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/PumpStreamTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/PumpStreamTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/RequestTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/RequestTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/ResponseTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/ResponseTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/ServerRequestTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/ServerRequestTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/StreamDecoratorTraitTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/StreamDecoratorTraitTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/StreamTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/StreamTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/StreamWrapperTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/StreamWrapperTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/UploadedFileTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/UploadedFileTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/UriTest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/UriTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/bootstrap.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/tests/bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/.gitignore" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/.travis.yml" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/LICENSE" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/Makefile" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/README.rst" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/README.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/composer.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/phpunit.xml.dist" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/phpunit.xml.dist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/AstRuntime.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/AstRuntime.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/CompilerRuntime.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/CompilerRuntime.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/DebugRuntime.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/DebugRuntime.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/Env.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/Env.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/FnDispatcher.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/FnDispatcher.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/JmesPath.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/JmesPath.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/Lexer.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/Lexer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/Parser.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/Parser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/SyntaxErrorException.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/SyntaxErrorException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/TreeCompiler.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/TreeCompiler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/TreeInterpreter.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/TreeInterpreter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/Utils.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/src/Utils.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/ComplianceTest.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/ComplianceTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/EnvTest.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/EnvTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/FnDispatcherTest.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/FnDispatcherTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/LexerTest.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/LexerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/ParserTest.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/ParserTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/SyntaxErrorExceptionTest.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/SyntaxErrorExceptionTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/TreeCompilerTest.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/TreeCompilerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/TreeInterpreterTest.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/TreeInterpreterTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/UtilsTest.php" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/UtilsTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/basic.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/basic.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/boolean.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/boolean.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/current.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/current.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/escape.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/escape.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/filters.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/filters.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/functions.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/functions.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/identifiers.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/identifiers.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/indices.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/indices.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/literal.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/literal.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/multiselect.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/multiselect.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/perf/basic.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/perf/basic.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/perf/deep_hierarchy.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/perf/deep_hierarchy.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/perf/deep_projection.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/perf/deep_projection.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/perf/functions.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/perf/functions.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/perf/multiwildcard.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/perf/multiwildcard.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/perf/wildcardindex.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/perf/wildcardindex.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/pipe.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/pipe.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/slice.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/slice.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/syntax.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/syntax.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/unicode.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/unicode.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/wildcard.json" afterPath="$PROJECT_DIR$/vendor/mtdowling/jmespath.php/tests/compliance/wildcard.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.gitignore" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.scrutinizer.yml" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.scrutinizer.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.travis.yml" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/LICENSE" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/PHPMailerAutoload.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/PHPMailerAutoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/README.md" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/VERSION" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/VERSION" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/changelog.md" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/changelog.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmailer.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmailer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauth.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauthgoogle.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauthgoogle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.pop3.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.pop3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.smtp.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.smtp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.json" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.lock" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/Callback_function_notes.txt" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/Callback_function_notes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/DomainKeys_notes.txt" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/DomainKeys_notes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/Note_for_SMTP_debugging.txt" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/Note_for_SMTP_debugging.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/extending.html" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/extending.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/faq.html" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/faq.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/pop3_article.txt" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/docs/pop3_article.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/DKIM.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/DKIM.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/code_generator.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/code_generator.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contents.html" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contents.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contentsutf8.html" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contentsutf8.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/exceptions.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/exceptions.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/gmail.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/gmail.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/gmail_xoauth.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/gmail_xoauth.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/index.html" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/mail.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/mail.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/mailing_list.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/mailing_list.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/pop_before_smtp.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/pop_before_smtp.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/XRegExp.js" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/XRegExp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shAutoloader.js" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shAutoloader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shBrushPhp.js" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shBrushPhp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shCore.js" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shCore.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shLegacy.js" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shLegacy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/send_file_upload.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/send_file_upload.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/send_multiple_file_upload.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/send_multiple_file_upload.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/sendmail.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/sendmail.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/signed-mail.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/signed-mail.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp_check.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp_check.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp_no_auth.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp_no_auth.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/ssl_options.phps" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/ssl_options.phps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCore.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCore.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreDefault.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreDefault.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreDjango.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreDjango.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreEclipse.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreEclipse.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreEmacs.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreEmacs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreFadeToGrey.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreFadeToGrey.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreMDUltra.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreMDUltra.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreMidnight.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreMidnight.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreRDark.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreRDark.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeAppleScript.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeAppleScript.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeDefault.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeDefault.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeDjango.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeDjango.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeEclipse.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeEclipse.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeEmacs.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeEmacs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeFadeToGrey.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeFadeToGrey.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeMDUltra.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeMDUltra.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeMidnight.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeMidnight.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeRDark.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeRDark.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeVisualStudio.css" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeVisualStudio.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/EasyPeasyICS.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/EasyPeasyICS.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/README.md" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/htmlfilter.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/htmlfilter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/ntlm_sasl_client.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/ntlm_sasl_client.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/get_oauth_token.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/get_oauth_token.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-am.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-am.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ar.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-az.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-az.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-be.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-be.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-bg.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-bg.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-br.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-br.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ca.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ca.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ch.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ch.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-cz.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-cz.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-de.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-de.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-dk.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-dk.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-el.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-el.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-eo.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-eo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-es.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-es.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-et.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-et.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fa.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fa.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fi.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fo.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fr.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-gl.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-gl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-he.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-he.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hr.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hu.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-id.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-id.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-it.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-it.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ja.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ja.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ka.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ka.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ko.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ko.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lt.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lt.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lv.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lv.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ms.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ms.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-nl.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-nl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-no.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-no.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pl.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ro.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ro.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ru.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ru.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-se.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-se.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sk.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sk.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sl.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-tr.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-tr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-uk.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-uk.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-vi.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-vi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh_cn.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh_cn.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/bootstrap.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/phpmailerLangTest.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/phpmailerLangTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/phpmailerTest.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/phpmailerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/test_callback.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/test_callback.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/testbootstrap-dist.php" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/test/testbootstrap-dist.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/travis.phpunit.xml.dist" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/travis.phpunit.xml.dist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/psr/http-message/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/LICENSE" afterPath="$PROJECT_DIR$/vendor/psr/http-message/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/README.md" afterPath="$PROJECT_DIR$/vendor/psr/http-message/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/composer.json" afterPath="$PROJECT_DIR$/vendor/psr/http-message/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/src/MessageInterface.php" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/MessageInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/src/RequestInterface.php" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/RequestInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/src/ResponseInterface.php" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/ResponseInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/src/ServerRequestInterface.php" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/ServerRequestInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/src/StreamInterface.php" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/StreamInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/src/UploadedFileInterface.php" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/UploadedFileInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/src/UriInterface.php" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/UriInterface.php" />
+    </list>
+    <ignored path="clientsys.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="clientsys" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="manage.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="147" column="18" selection-start-line="147" selection-start-column="18" selection-end-line="147" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/manage.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="43" />
+    <option name="y" value="24" />
+    <option name="width" value="1323" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientsys" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientsys" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientsys" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d30e43b2-971f-4c14-9768-afafea675b33" name="Default" comment="" />
+      <created>1477943807502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477943807502</updated>
+      <workItem from="1477943812092" duration="267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="267000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="43" y="24" width="1323" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13000757" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/manage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="147" column="18" selection-start-line="147" selection-start-column="18" selection-end-line="147" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
